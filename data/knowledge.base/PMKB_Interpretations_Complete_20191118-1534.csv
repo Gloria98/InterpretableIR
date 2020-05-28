@@ -1,0 +1,642 @@
+Gene,Tumor Type(s),Tissue Type(s),Variant(s),Tier
+CSF3R,Atypical Chronic Myeloid Leukemia|Chronic Neutrophilic Leukemia|Myeloproliferative Neoplasm,Blood|Bone Marrow,CSF3R T618I|CSF3R any nonsense|CSF3R any frameshift,1
+MPL,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,MPL codon(s) 515 missense|MPL W515L|MPL W515K,1
+JAK1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,JAK1 any mutation,2
+NRAS,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,NRAS any mutation,1
+NOTCH2,Diffuse Large B Cell Lymphoma|Marginal Zone B Cell Lymphoma,Blood|Bone Marrow,NOTCH2 I2304fs|NOTCH2 exon(s) 34 frameshift,1
+RIT1,Acute Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,RIT1 M90I,1
+DNMT3A,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,DNMT3A any mutation,2
+FANCL,Myelodysplastic Syndrome,Blood|Bone Marrow,FANCL any mutation,1
+XPO1,Chronic Lymphocytic Leukemia,Blood|Bone Marrow,,1
+CXCR4,Lymphoplasmacytic Lymphoma,Blood|Bone Marrow,,1
+SF3B1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,"SF3B1 codon(s) 700, 666, 662, 625, 622 missense|SF3B1 exon(s) 13-16 missense",1
+IDH1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,IDH1 R132H|IDH1 R132L|IDH1 R132C|IDH1 codon(s) 132 any,1
+IKZF2,B Lymphoblastic Leukemia/Lymphoma|T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,2
+MYD88,Lymphoplasmacytic Lymphoma,Blood|Bone Marrow,MYD88 L265P,1
+CTNNB1,Acute Myeloid Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,"CTNNB1 codon(s) 32, 33, 34, 35, 36, 37, 41, 45 any|CTNNB1 S45P|CTNNB1 G34E|CTNNB1 S37C|CTNNB1 S37F|CTNNB1 D32V|CTNNB1 codon(s) 41, 45 any|CTNNB1 S37Y",1
+SETD2,Acute Myeloid Leukemia|T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,SETD2 any nonsense|SETD2 any frameshift|SETD2 any missense,1
+CBLB,Acute Myeloid Leukemia|Chronic Myeloid Leukemia,Blood|Bone Marrow,,1
+GATA2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,GATA2 any mutation,1
+PIK3CA,Chronic Lymphocytic Leukemia|Diffuse Large B Cell Lymphoma,Blood|Bone Marrow,"PIK3CA E542K|PIK3CA E545K|PIK3CA H1047R|PIK3CA codon(s) 542, 545, 1047 any|PIK3CA exon(s) 10, 20, 21 any",1
+WHSC1,B Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+PDGFRA,Myeloproliferative Neoplasm,Blood|Bone Marrow,PDGFRA D842V|PDGFRA H650Q|PDGFRA N659S|PDGFRA R748G|PDGFRA T674I|PDGFRA Y849S,1
+KIT,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,KIT D816V|KIT exon(s) 11 any|KIT exon(s) 17 any|KIT exon(s) 8 missense|KIT exon(s) 9 missense|KIT exon(s) 10 missense|KIT any mutation,1
+TET2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,TET2 any mutation,2
+FBXW7,B Lymphoblastic Leukemia/Lymphoma|Chronic Lymphocytic Leukemia|T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+TLR2,Myelodysplastic Syndrome,Blood|Bone Marrow,,3
+IL7R,B Lymphoblastic Leukemia/Lymphoma|T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+CSF1R,Acute Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,,2
+NPM1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,NPM1 codon(s) 288 frameshift|NPM1 codon(s) 290 frameshift,1
+PIM1,Acute Myeloid Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,,2
+IKZF1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,IKZF1 any mutation,2
+CUX1,Acute Myeloid Leukemia|Chronic Lymphocytic Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome|Myeloproliferative Neoplasm,Blood|Bone Marrow,,2
+LUC7L2,Acute Myeloid Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,,2
+BRAF,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Lymphocytic Leukemia|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Diffuse Large B Cell Lymphoma|Essential Thrombocythemia|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,BRAF V600D|BRAF V600E|BRAF V600K|BRAF V600R|BRAF codon(s) 600 any|BRAF any mutation,2
+EZH2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,EZH2 any mutation,1
+RAD21,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,RAD21 any mutation,2
+JAK2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,JAK2 V617F|JAK2 exon(s) 12 insertion|JAK2 exon(s) 12 deletion|JAK2 any mutation,1
+PAX5,B Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+ABL1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,ABL1 any mutation,1
+NOTCH1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,NOTCH1 exon(s) 26 missense|NOTCH1 exon(s) 27 missense|NOTCH1 exon(s) 34 frameshift|NOTCH1 exon(s) 34 nonsense|NOTCH1 exon(s) 34 missense|NOTCH1 exon(s) 26 insertion|NOTCH1 exon(s) 26 deletion|NOTCH1 exon(s) 27 insertion|NOTCH1 exon(s) 27 deletion,2
+GATA3,T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+PTEN,T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+NT5C2,B Lymphoblastic Leukemia/Lymphoma|T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+SMC3,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,SMC3 any mutation,1
+WT1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,WT1 any mutation,2
+SF1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,SF1 any mutation,1
+EED,Acute Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome|T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+ATM,Chronic Lymphocytic Leukemia|Mantle Cell Lymphoma|T Cell Lymphoproliferative Disorder,Blood|Bone Marrow|Lymph Node,,1
+CBL,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,CBL any mutation,2
+ETV6,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,ETV6 any mutation,1
+KRAS,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,"KRAS codon(s) 12, 13, 61, 117, 146 any",2
+PRPF40B,Acute Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome|Myeloproliferative Neoplasm,Blood|Bone Marrow,,1
+SH2B3,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,SH2B3 any mutation,2
+PTPN11,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,PTPN11 any mutation,2
+FLT3,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,FLT3 D835A|FLT3 D835E|FLT3 D835H|FLT3 D835N|FLT3 D835V|FLT3 Y842C|FLT3 exon(s) 14 insertion|FLT3 exon(s) 15 insertion|FLT3 codon(s) 835 missense|FLT3 codon(s) 839 missense|FLT3 codon(s) 842 missense|FLT3 codon(s) 691 missense|FLT3 codon(s) 676 missense|FLT3 codon(s) 697 missense|FLT3 codon(s) 835 any|FLT3 codon(s) 839 any|FLT3 codon(s) 842 any|FLT3 exon(s) 20 any|FLT3 exon(s) 17 any|FLT3 exon(s) 14-23 any,1
+PDS5B,Myelodysplastic Syndrome,Blood|Bone Marrow,,2
+IDH2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,"IDH2 R140Q|IDH2 R172K|IDH2 codon(s) 140, 172 any|IDH2 codon(s) 140 missense|IDH2 codon(s) 172 missense",1
+CREBBP,B Lymphoblastic Leukemia/Lymphoma|Diffuse Large B Cell Lymphoma|Follicular Lymphoma,Blood|Bone Marrow|Lymph Node,,1
+CTCF,Acute Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Myelodysplastic Syndrome|T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+PRPF8,Acute Myeloid Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,,1
+TP53,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow|Lymph Node,TP53 copy number loss,1
+IKZF3,Chronic Myeloid Leukemia,Blood|Bone Marrow,,2
+STAT3,NK Cell Lymphoproliferative Disorder|T Cell Lymphoproliferative Disorder|T-Cell LGL Leukemia,Blood|Bone Marrow|Lymph Node,,1
+CD79B,Diffuse Large B Cell Lymphoma,Blood|Bone Marrow|Lymph Node,,1
+SRSF2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,SRSF2 codon(s) 95 missense,1
+SETBP1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,SETBP1 any mutation,1
+JAK3,NK Cell Lymphoproliferative Disorder|T Cell Lymphoproliferative Disorder|T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+MEF2B,Diffuse Large B Cell Lymphoma|Follicular Lymphoma|Mantle Cell Lymphoma,Blood|Bone Marrow|Lymph Node,,2
+CEBPA,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,CEBPA any mutation,1
+CNOT3,T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,2
+U2AF2,Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,,2
+ASXL1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,ASXL1 any mutation,1
+GNAS,Myelodysplastic Syndrome,Blood|Bone Marrow,"GNAS codon(s) 201, 844 any",1
+RUNX1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,RUNX1 any mutation,1
+U2AF1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,U2AF1 codon(s) 34 missense|U2AF1 codon(s) 157 missense,1
+SF3A1,Acute Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,,2
+EP300,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow|Lymph Node,EP300 any mutation,2
+CRLF2,B Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+ZRSR2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,ZRSR2 any mutation,1
+BCOR,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,BCOR any mutation,1
+GATA1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,GATA1 any mutation,2
+SMC1A,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,SMC1A any mutation,2
+STAG2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,STAG2 any mutation,1
+BCORL1,Acute Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,BCORL1 any mutation,2
+PHF6,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,PHF6 any mutation,2
+RPL10,T Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,,1
+BRCC3,Myelodysplastic Syndrome,Blood|Bone Marrow,,2
+CALR,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,CALR exon(s) 9 frameshift,1
+MAP2K1,Hairy Cell Leukemia,Blood|Bone Marrow,,1
+PIGA,,Blood|Bone Marrow,,1
+EGFR,Acute Myeloid Leukemia,Blood|Bone Marrow,,2
+GNB1,Acute Myeloid Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,GNB1 codon(s) 57 missense,1
+AKT1,Adenocarcinoma|Carcinoma,Breast|Colon|Endometrium|Lung|Ovary |Prostate|Rectum,AKT1 E17K,2
+APC,Adenocarcinoma,Colon|Rectum,APC any missense|APC any nonsense|APC any frameshift,2
+APC,Adenocarcinoma,Colon|Rectum,APC codon(s) 1464 frameshift|APC Q1338*|APC R1114*|APC codon(s) 1556 frameshift|APC R876*|APC codon(s) 1465 frameshift|APC codon(s) 1307 frameshift|APC Q1429*,2
+APC,Adenocarcinoma|Carcinoma,Colon|Stomach|Thyroid|Rectum,APC E1317Q,3
+APC,Papillary Carcinoma,Thyroid,APC E1317Q|APC codon(s) 1307 frameshift,3
+APC,Adenocarcinoma|Squamous Cell Carcinoma,Lung,APC E1317Q|APC codon(s) 1307 frameshift,3
+ATM,Adenocarcinoma,Breast|Colon|Esophagus|Lung|Stomach|Unknown|Rectum,ATM P604S|ATM A1309T|ATM F858L|ATM P2699S,3
+ATM,Papillary Carcinoma,Thyroid,ATM P604S|ATM A1309T|ATM F858L,3
+ATM,Melanoma,Breast|Skin,ATM P604S|ATM A1309T|ATM F858L,3
+BRAF,Papillary Carcinoma,Thyroid,BRAF V600E|BRAF codon(s) 600 any,1
+BRAF,Adenocarcinoma,Colon|Rectum,BRAF V600D|BRAF V600E|BRAF V600K|BRAF V600R|BRAF codon(s) 600 any|BRAF V600M|BRAF V600G,1
+BRAF,Melanoma,Skin,BRAF V600D|BRAF V600E|BRAF V600K|BRAF V600R|BRAF codon(s) 600 any|BRAF V600M|BRAF V600G,1
+BRAF,Adenocarcinoma,Lung,BRAF V600D|BRAF V600K|BRAF V600R|BRAF V600M|BRAF V600G,2
+BRAF,Adenocarcinoma,Lung,BRAF G469A|BRAF codon(s) 469 any,2
+BRAF,Adenocarcinoma,Lung,BRAF G464V|BRAF codon(s) 464 any,2
+BRAF,Adenocarcinoma,Lung,BRAF K601E|BRAF codon(s) 601 any,2
+BRAF,Adenocarcinoma,Colon|Rectum,BRAF D594E|BRAF codon(s) 594 any,2
+BRAF,"Glioblastoma|Astrocytoma, Pilocytic|Ganglioglioma|Neuroepithelial Neoplasm, NOS|Neuroepithelial neoplasm, high grade|Astrocytoma, NOS|Pleomorphic Xanthoastrocytoma","Brain|Spinal Cord|Brain, Infratentorial|Brain, Supratentorial",BRAF V600E|BRAF codon(s) 600 any,1
+BRAF,,"Brain|Spinal Cord|Brain, Infratentorial|Brain, Supratentorial",BRAF T599_V600insT,2
+CTNNB1,Melanoma,Skin,"CTNNB1 codon(s) 32, 33, 34, 35, 36, 37, 41, 45 any",3
+CTNNB1,Adenocarcinoma,Lung,CTNNB1 S45P,2
+CTNNB1,Fibromatosis,Chest Wall,"CTNNB1 codon(s) 41, 45 any",2
+CTNNB1,Craniopharyngioma,"Brain|Spinal Cord|Brain, Infratentorial|Brain, Supratentorial","CTNNB1 codon(s) 32, 33, 34, 35, 36, 37, 41, 45 any|CTNNB1 S37Y",2
+CDKN2A,Squamous Cell Carcinoma,Lung,CDKN2A W110*|CDKN2A Y129*|CDKN2A any frameshift|CDKN2A H83Y|CDKN2A codon(s) 58 frameshift|CDKN2A codon(s) 80 frameshift|CDKN2A D108H,2
+CDKN2A,Melanoma,Skin,CDKN2A W110*|CDKN2A any frameshift,2
+CDKN2A,Carcinoma,Esophagus,CDKN2A W110*,3
+CDKN2A,Adenocarcinoma,Lung,CDKN2A W110*|CDKN2A Y129*|CDKN2A any frameshift|CDKN2A codon(s) 58 frameshift|CDKN2A codon(s) 80 frameshift,2
+ERBB2,Adenocarcinoma,Lung,ERBB2 G776delinsVC,2
+EGFR,Glioblastoma,"Brain|Spinal Cord|Brain, Infratentorial|Brain, Supratentorial","EGFR A289V|EGFR A289D|EGFR G598V|EGFR P596L|EGFR codon(s) 289, 596, 598 any",2
+EGFR,Adenocarcinoma,Lung,"EGFR L858R|EGFR exon(s) 18, 19, 20, 21 any",1
+EGFR,Adenocarcinoma,Lung,EGFR E746_A750delinsI|EGFR exon(s) 19 deletion|EGFR E746_A750del,1
+EGFR,Adenocarcinoma,Lung,EGFR codon(s) 790 any,1
+EGFR,Adenocarcinoma,Lung,EGFR exon(s) 20 any,3
+EGFR,Adenocarcinoma,Lung,EGFR exon(s) 20 insertion,1
+EGFR,Adenocarcinoma,Lung,EGFR H773L|EGFR V774M,1
+EGFR,Glioblastoma,"Brain|Spinal Cord|Brain, Infratentorial|Brain, Supratentorial",EGFR exon(s) 20 insertion,2
+EGFR,Adenocarcinoma,Lung,EGFR D761N|EGFR D761Y|EGFR codon(s) 761 any,1
+EGFR,Adenocarcinoma,Lung|Stomach,EGFR G863D,3
+EGFR,Squamous Cell Carcinoma,Skin,EGFR P753S,2
+EGFR,Adenocarcinoma,Lung,EGFR L861Q|EGFR codon(s) 861 any,1
+EGFR,Adenocarcinoma,Lung,EGFR E709K,1
+EGFR,Glioblastoma,"Brain|Spinal Cord|Brain, Infratentorial|Brain, Supratentorial",EGFR E709K,2
+FBXW7,Adenocarcinoma,Breast|Colon|Endometrium|Lung|Stomach|Rectum,FBXW7 R479Q|FBXW7 D761N,3
+FBXW7,Melanoma,Skin,FBXW7 R479Q|FBXW7 D761N,3
+FGFR3,Carcinoma|Urothelial Carcinoma,Bladder,FGFR3 Y373C,2
+GNAS,Adenocarcinoma,Kidney|Lung,"GNAS codon(s) 201, 844 any",2
+HRAS,Melanoma,Skin,"HRAS codon(s) 12, 13, 61 any",2
+HRAS,Follicular Carcinoma|Medullary Carcinoma|Papillary Carcinoma,Thyroid,"HRAS codon(s) 12, 13, 61 any",1
+HRAS,Urothelial Carcinoma,Bladder,"HRAS codon(s) 12, 13, 61 any",2
+IDH1,"Astrocytoma, Anaplastic|Glioblastoma|Oligodendroglioma|Neuroepithelial Neoplasm, NOS|Neuroepithelial neoplasm, high grade|Astrocytoma, Diffusely Infiltrating|Infiltrating Glioma, NOS","Brain|Spinal Cord|Brain, Infratentorial|Brain, Supratentorial",IDH1 R132H|IDH1 R132L|IDH1 R132C|IDH1 codon(s) 132 any,1
+IDH1,Adenocarcinoma,Breast,IDH1 R132H|IDH1 R132L|IDH1 R132C|IDH1 codon(s) 132 any,2
+IDH1,Adenocarcinoma,Lung,IDH1 R132L|IDH1 codon(s) 132 any,2
+IDH1,Melanoma,Skin,IDH1 R132C|IDH1 codon(s) 132 any,2
+IDH2,"Astrocytoma, Anaplastic|Ependymoma|Glioblastoma|Oligodendroglioma","Brain|Spinal Cord|Brain, Infratentorial|Brain, Supratentorial","IDH2 R140Q|IDH2 R172K|IDH2 codon(s) 140, 172 any",1
+KIT,Gastrointestinal Stromal Tumor,Small Intestine|Stomach,KIT M541L,3
+KIT,Gastrointestinal Stromal Tumor,Small Intestine|Stomach,KIT E554K,1
+KIT,Gastrointestinal Stromal Tumor,Small Intestine|Stomach,KIT V560D|KIT exon(s) 11 any,1
+KIT,Melanoma,Anus,KIT N822K|KIT exon(s) 17 any,1
+KRAS,Adenocarcinoma,Colon|Rectum,"KRAS G12A|KRAS G12V|KRAS G12D|KRAS G12C|KRAS G12S|KRAS G12R|KRAS G13C|KRAS G13S|KRAS G13R|KRAS Q61H|KRAS Q61L|KRAS Q61K|KRAS Q61R|KRAS A146T|KRAS A146V|KRAS A146P|KRAS A11V|KRAS codon(s) 12, 13, 61, 117, 146 any",1
+KRAS,Squamous Cell Carcinoma,Lung,"KRAS G12A|KRAS G12V|KRAS G12D|KRAS G12C|KRAS G12S|KRAS G12R|KRAS G13D|KRAS G13C|KRAS G13S|KRAS G13R|KRAS Q61H|KRAS Q61L|KRAS Q61K|KRAS Q61R|KRAS codon(s) 12, 13, 61, 117, 146 any",2
+KRAS,Adenocarcinoma|Pleomorphic Carcinoma,Lung,"KRAS G12A|KRAS G12V|KRAS G12D|KRAS G12C|KRAS G12S|KRAS G12R|KRAS G13D|KRAS G13C|KRAS G13S|KRAS G13R|KRAS Q61H|KRAS Q61L|KRAS Q61K|KRAS Q61R|KRAS codon(s) 12, 13, 61, 117, 146 any",2
+KRAS,Adenocarcinoma|Carcinoma,Pancreas,"KRAS G12A|KRAS G12V|KRAS G12D|KRAS G12C|KRAS G12S|KRAS G12R|KRAS G13D|KRAS G13C|KRAS G13S|KRAS G13R|KRAS Q61H|KRAS Q61L|KRAS Q61K|KRAS Q61R|KRAS A146T|KRAS A146V|KRAS A146P|KRAS A11V|KRAS codon(s) 12, 13, 61, 117, 146 any",2
+KRAS,Adenocarcinoma,Gall Bladder,KRAS G12D|KRAS codon(s) 12 any,2
+MET,Papillary Renal Cell Carcinoma,Kidney,MET V1110I|MET M1131T|MET M1149T|MET V1188L|MET L1195V|MET V1220I|MET L1213F,2
+MET,Adenocarcinoma,Lung,MET H1112Y,2
+MET,Adenocarcinoma,Lung,MET E168D,3
+MET,Adenocarcinoma,Colon|Lung|Rectum,MET T1010I,3
+MET,Adenocarcinoma,Kidney,MET M1268T,3
+MLH1,Adenocarcinoma|Carcinoma,Colon|Lung|Rectum,MLH1 V384D,3
+NRAS,Adenocarcinoma,Colon|Rectum,"NRAS G12A|NRAS G12V|NRAS G12D|NRAS G12C|NRAS G12S|NRAS G12R|NRAS G13D|NRAS G13C|NRAS G13S|NRAS G13R|NRAS G13A|NRAS G13V|NRAS Q61H|NRAS Q61L|NRAS Q61K|NRAS Q61R|NRAS codon(s) 12, 13, 61, 146 any",1
+NRAS,Melanoma,Skin,"NRAS G12A|NRAS G12V|NRAS G12D|NRAS G12C|NRAS G12S|NRAS G12R|NRAS G13D|NRAS G13C|NRAS G13S|NRAS G13R|NRAS G13A|NRAS G13V|NRAS Q61H|NRAS Q61L|NRAS Q61K|NRAS Q61R|NRAS codon(s) 12, 13, 61, 146 any",1
+NRAS,Follicular Carcinoma|Papillary Carcinoma,Thyroid,"NRAS G12A|NRAS G12V|NRAS G12D|NRAS G12C|NRAS G12S|NRAS G12R|NRAS G13D|NRAS G13C|NRAS G13S|NRAS G13R|NRAS G13A|NRAS G13V|NRAS codon(s) 12, 13, 61, 146 any",1
+NRAS,Follicular Carcinoma|Papillary Carcinoma,Thyroid,NRAS Q61H|NRAS Q61L|NRAS Q61K|NRAS Q61R,1
+NRAS,,Thyroid,"NRAS G12A|NRAS G12V|NRAS G12D|NRAS G12C|NRAS G12S|NRAS G12R|NRAS G13D|NRAS G13C|NRAS G13S|NRAS G13R|NRAS G13A|NRAS G13V|NRAS Q61H|NRAS Q61L|NRAS Q61K|NRAS Q61R|NRAS codon(s) 12, 13, 61, 146 any",1
+NRAS,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,"NRAS G12A|NRAS G12V|NRAS G12D|NRAS G12C|NRAS G12S|NRAS G12R|NRAS G13D|NRAS G13C|NRAS G13S|NRAS G13R|NRAS G13A|NRAS G13V|NRAS Q61H|NRAS Q61L|NRAS Q61K|NRAS Q61R|NRAS codon(s) 12, 13, 61, 146 any|NRAS T58I",2
+NRAS,Cholangiocarcinoma,Liver,NRAS G12D|NRAS Q61R,2
+NRAS,Urothelial Carcinoma,Bladder,"NRAS G12A|NRAS G12V|NRAS G12D|NRAS G12C|NRAS G12S|NRAS G12R|NRAS G13D|NRAS G13C|NRAS G13S|NRAS G13R|NRAS G13A|NRAS G13V|NRAS Q61H|NRAS Q61L|NRAS Q61K|NRAS Q61R|NRAS codon(s) 12, 13, 61, 146 any",2
+PDGFRA,Gastrointestinal Stromal Tumor,Small Intestine|Stomach,PDGFRA D842V|PDGFRA codon(s) 842 any,1
+PIK3CA,Adenocarcinoma|Lobular Carcinoma,Breast,"PIK3CA E542K|PIK3CA E545K|PIK3CA H1047R|PIK3CA codon(s) 542, 545, 1047 any",1
+PIK3CA,Adenocarcinoma,Colon|Rectum,"PIK3CA exon(s) 10, 20, 21 any",2
+PIK3CA,Carcinoma|Papillary Carcinoma,Thyroid,"PIK3CA exon(s) 10, 20, 21 any",2
+PIK3CA,,Brain,"PIK3CA exon(s) 10, 20, 21 any",2
+PIK3CA,Adenocarcinoma|Squamous Cell Carcinoma,Lung,"PIK3CA exon(s) 10, 20, 21 any",2
+IDH1,Cholangiocarcinoma,Liver,IDH1 R132H|IDH1 R132L|IDH1 R132C|IDH1 codon(s) 132 any,2
+HRAS,Cholangiocarcinoma,Breast,"HRAS codon(s) 12, 13, 61 any|HRAS Q61R",2
+MET,Papillary Carcinoma,Thyroid,MET E168D,3
+PIK3CA,Urothelial Carcinoma,Bladder|Kidney|Ureter,"PIK3CA codon(s) 542, 545, 1047 any",2
+PTEN,Adenocarcinoma,Colon|Rectum,PTEN any deletion,2
+PTEN,Follicular Carcinoma|Papillary Carcinoma,Thyroid,PTEN any frameshift|PTEN any deletion,2
+PTEN,Adenocarcinoma,Lung,PTEN any frameshift|PTEN any deletion,2
+RB1,Retinoblastoma,Eye,,3
+SMAD4,Adenocarcinoma,Colon|Rectum,,3
+SMAD4,Adenocarcinoma,Pancreas,SMAD4 any nonsense,2
+SMAD4,Adenocarcinoma,Lung,,3
+EGFR,Adenocarcinoma,Lung,,1
+ERBB2,Adenocarcinoma,Breast,ERBB2 V842I,2
+EGFR,Glioblastoma,"Brain|Brain, Infratentorial|Brain, Supratentorial",EGFR copy number gain,2
+NOTCH2,Marginal Zone B Cell Lymphoma,Spleen ,NOTCH2 I2304fs|NOTCH2 exon(s) 34 frameshift,1
+MDM2,Urothelial Carcinoma,Bladder,MDM2 copy number gain,1
+KLF2,Marginal Zone B Cell Lymphoma,Spleen ,KLF2 any nonsense|KLF2 any frameshift|KLF2 any missense,2
+JAK3,Adenocarcinoma|Papillary Carcinoma|Urothelial Carcinoma,Bladder|Colon|Lung|Pancreas|Thyroid,JAK3 V722I,3
+TP53,Adenocarcinoma|Squamous Cell Carcinoma,Lung|Pancreas,TP53 G245C|TP53 E204*,2
+TP53,Melanoma,Skin,,2
+TP53,Adenocarcinoma,Appendix|Colon|Rectum,,2
+TP53,Glioblastoma,Brain,,2
+KDM5C,Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma,Kidney,,2
+SETD2,Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma,Kidney,,2
+BAP1,Clear Cell Renal Cell Carcinoma,Kidney,,2
+PBRM1,Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma,Kidney,,2
+VHL,Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma,Kidney,,1
+KDM6A,Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma,Kidney,,3
+PTEN,Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma,Kidney,,2
+FLCN,Renal Cell Carcinoma,Kidney,FLCN any mutation,1
+FGFR1,Adenocarcinoma,Pancreas,FGFR1 copy number gain,2
+SPOP,Adenocarcinoma,Prostate,,2
+ERBB2,Adenocarcinoma,Colon|Pancreas|Rectum,ERBB2 V842I,2
+CTNNB1,Sarcoma,Uterus,"CTNNB1 codon(s) 32, 33, 34, 35, 36, 37, 41, 45 any",3
+CHD1,Adenocarcinoma,Prostate,CHD1 any indel,2
+PTEN,Adenocarcinoma,Prostate,PTEN any deletion|PTEN any missense,2
+ERBB2,Adenocarcinoma|Urothelial Carcinoma,Bladder|Breast|Kidney|Lung|Ureter,ERBB2 S310F|ERBB2 S310Y|ERBB2 R157W,1
+BRAF,Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis,Bone|Bone Marrow|Lung|Lymph Node|Skin,BRAF V600E|BRAF codon(s) 600 any,1
+ERBB2,Adenocarcinoma,Lung,ERBB2 exon(s) 20 insertion,2
+PTEN,Glioblastoma,Brain,PTEN any deletion|PTEN G129R,2
+PTEN,Adenocarcinoma,Endometrium,PTEN Y68H,3
+KRAS,Adenocarcinoma,Lung,KRAS Q22K,2
+MET,Follicular Carcinoma|Papillary Carcinoma,Thyroid,MET T1010I,3
+MET,Glioblastoma,Brain,MET T1010I,3
+BRAF,Papillary Carcinoma,Thyroid,BRAF T599_V600insV,1
+FGFR3,,Brain,,3
+KRAS,Follicular Carcinoma|Papillary Carcinoma,Thyroid,"KRAS codon(s) 12, 13, 61, 117, 146 any",2
+APC,Glioblastoma,Brain,,3
+GNAS,Adenocarcinoma,Lung,GNAS Q227L,2
+KRAS,Adenocarcinoma,Ovary ,KRAS G12A|KRAS G12V|KRAS G12D|KRAS G12S|KRAS G12R,2
+DNAJB1,Hepatocellular Carcinoma,Liver,DNAJB1-PRKACA rearrangement,1
+NCOA2,Adenocarcinoma,Prostate,NCOA2 copy number gain,1
+AR,Adenocarcinoma|Small Cell Carcinoma,Prostate,AR copy number gain,1
+TP53,Adenocarcinoma,Prostate,TP53 copy number loss|TP53 any deletion,2
+ERG,Adenocarcinoma,Prostate,ERG-TMPRSS2 rearrangement,2
+EGFR,Urothelial Carcinoma,Bladder,EGFR copy number gain,1
+AR,Adenocarcinoma,Prostate,AR T878A|AR H875Y,1
+IRS2,Adenocarcinoma|Cholangiocarcinoma|Glioblastoma,Brain|Colon|Gall Bladder,IRS2 copy number gain,3
+SMAD4,Follicular Carcinoma|Papillary Carcinoma,Thyroid,SMAD4 C324Y,3
+FGFR3,Thymic Carcinoma,Thymus,,3
+CDKN2A,Adenocarcinoma|Squamous Cell Carcinoma,Colon|Rectum,,2
+KRAS,Adenocarcinoma,Appendix,"KRAS codon(s) 12, 13, 61, 117, 146 any",2
+TP53,Langerhans Cell Histiocytosis,Skin,,2
+PDGFA,Ductal Carcinoma,Breast,PDGFA Y273F,2
+NKX2-1,Adenocarcinoma,Lung,NKX2-1 copy number gain,2
+KRAS,,Ampulla (Pancreaticobiliary Duct)|Pancreas,,2
+FGFR2,Invasive Ductal Carcinoma|Lobular Carcinoma,Breast,FGFR2 P253R,2
+KRAS,Urothelial Carcinoma,Bladder,,2
+FGFR3,Adenocarcinoma|Carcinoma|Follicular Carcinoma|Papillary Carcinoma|Squamous Cell Carcinoma,Breast|Colon|Liver|Lung|Pancreas|Thyroid,FGFR3 F384L,3
+14-Sep,Glioblastoma,"Brain, Supratentorial",SEPT14 copy number gain,2
+CDKN2A,Glioblastoma,Brain,CDKN2A copy number loss,2
+CDKN2B,Glioblastoma,Brain,CDKN2B copy number loss,1
+FGFR1,Invasive Ductal Carcinoma,Breast,FGFR1 copy number gain,1
+BRAF,Follicular Carcinoma|Papillary Carcinoma,Thyroid,BRAF K601E,1
+BRAF,Medulloblastoma,Brain,BRAF F595S,3
+PIK3CA,Medulloblastoma,Brain,,2
+PTPN11,Glioblastoma,Brain,,3
+APC,Adenocarcinoma,Prostate,,3
+KRAS,Adenocarcinoma|Cholangiocarcinoma,Ampulla (Pancreaticobiliary Duct)|Liver,"KRAS codon(s) 12, 13, 61, 117, 146 any",2
+CDKN2A,Adenocarcinoma|Cholangiocarcinoma,Ampulla (Pancreaticobiliary Duct)|Liver,,2
+CTNNB1,Adenocarcinoma,Colon|Rectum,"CTNNB1 codon(s) 41, 45 any",2
+PTEN,Carcinoma,Parathyroid,PTEN G165R,2
+CTNNB1,Adenocarcinoma,Prostate,,3
+EGFR,Adenocarcinoma|Squamous Cell Carcinoma,Lung,EGFR S768I|EGFR G724S,1
+EGFR,Adenocarcinoma,Colon|Rectum,EGFR R776H,2
+KIT,Adenocarcinoma,Colon|Rectum,,2
+GNAS,Adenocarcinoma,Pancreas,"GNAS codon(s) 201, 844 any",2
+ALK,Neuroblastoma,"Brain|Soft Tissue|Brain, Infratentorial|Brain, Supratentorial",ALK R1275Q,1
+EGFR,Adenocarcinoma|Pleomorphic Carcinoma,Lung,EGFR K745_E746insIPVAIK,1
+KIT,Gastrointestinal Stromal Tumor,Small Intestine|Stomach|Rectum,KIT exon(s) 9 insertion,1
+FGFR2,Adenocarcinoma,Endometrium,,2
+KRAS,Adenocarcinoma,Endometrium,,2
+PTEN,Adenocarcinoma,Endometrium,,2
+SMAD4,Adenocarcinoma,Breast,,3
+STK11,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,STK11 codon(s) 60-1 deletion,2
+EGFR,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,EGFR E709_T710delinsD|EGFR exon(s) 18 indel|EGFR exon(s) 18 deletion,1
+ALK,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,ALK F1174L|ALK F1174C,2
+TSC1,Adenocarcinoma|Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma|Urothelial Carcinoma,Bladder|Kidney|Lung,TSC1 any missense,2
+EGFR,Adenocarcinoma,Esophagus|Stomach|Gastroesophageal Junction,EGFR copy number gain,1
+JAK2,B Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,JAK2 codon(s) 683 missense|JAK2 any mutation,1
+NOTCH1,Chronic Lymphocytic Leukemia,Blood|Bone Marrow,NOTCH1 exon(s) 34 frameshift|NOTCH1 exon(s) 34 nonsense|NOTCH1 exon(s) 34 missense,1
+TP53,Acute Myeloid Leukemia|Myelodysplastic Syndrome,Blood|Bone Marrow,TP53 copy number loss,1
+TP53,B Lymphoblastic Leukemia/Lymphoma,Blood|Bone Marrow,TP53 copy number loss,1
+TSC2,Adenocarcinoma|Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma|Urothelial Carcinoma,Bladder|Kidney|Lung,TSC2 any missense,2
+MLH1,Papillary Carcinoma,Thyroid,MLH1 V384D,3
+CDH1,Adenocarcinoma,Stomach,,2
+IDH2,Adenocarcinoma|Non-Small Cell Lung Carcinoma|Squamous Cell Carcinoma,Lung,"IDH2 R140Q|IDH2 codon(s) 140, 172 any",2
+BRAF,Melanoma,Skin,BRAF L597V|BRAF L597R,1
+PTPN11,Adenocarcinoma|Non-Small Cell Lung Carcinoma|Squamous Cell Carcinoma,Lung,,3
+KRAS,Adenocarcinoma,Prostate,,2
+SMAD4,Adenocarcinoma|Carcinoma,Stomach,SMAD4 R361H,3
+KRAS,Adenocarcinoma|Carcinoma,Esophagus|Gastroesophageal Junction,,2
+EGFR,Adenocarcinoma|Squamous Cell Carcinoma,Stomach,EGFR T790M,2
+CTNNB1,Non-Small Cell Lung Carcinoma,Lung,,3
+BRAF,Adenocarcinoma|Carcinoma|Melanoma|Non-Small Cell Lung Carcinoma,Lung,BRAF G466V,2
+EGFR,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,EGFR L747P,1
+PTEN,Adenocarcinoma|Invasive Ductal Carcinoma,Breast,PTEN any frameshift|PTEN any deletion|PTEN any missense,2
+EGFR,Adenocarcinoma,Stomach,,2
+PTEN,Adenocarcinoma,Stomach,PTEN any frameshift|PTEN any deletion|PTEN any missense,3
+ERBB2,Adenocarcinoma|Invasive Ductal Carcinoma,Breast,ERBB2 L755S,2
+CDKN2A,Follicular Carcinoma|Papillary Carcinoma,Thyroid,CDKN2A copy number loss,3
+CDKN2A,Adenocarcinoma,Stomach,CDKN2A copy number loss,2
+KIT,Melanoma,Skin,KIT V559A,1
+EGFR,Follicular Carcinoma|Papillary Carcinoma,Thyroid,,2
+PIK3CA,Squamous Cell Carcinoma,Anus|Lung|Oral Cavity|Pharynx,"PIK3CA E542K|PIK3CA E545K|PIK3CA H1047R|PIK3CA codon(s) 542, 545, 1047 any",2
+HRAS,Squamous Cell Carcinoma,Anus|Larynx|Oral Cavity|Pharynx|Vulva,"HRAS codon(s) 12, 13, 61 any|HRAS Q61R|HRAS Q61K",2
+KRAS,Adenocarcinoma,Colon,KRAS V14I,2
+ALK,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,ALK L1196M|ALK L1196Q,2
+ALK,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,ALK G1202R,2
+PIK3CA,Adenocarcinoma|Cholangiocarcinoma|Hepatocellular Carcinoma,Liver|Pancreas|Stomach,"PIK3CA E542K|PIK3CA E545K|PIK3CA H1047R|PIK3CA codon(s) 542, 545, 1047 any",2
+BRAF,Adenocarcinoma,Colon,BRAF G469A,2
+PIK3CA,Adenocarcinoma|Carcinoma,Prostate,,3
+MET,Adenocarcinoma|Carcinoma,Prostate,MET E168D,3
+KRAS,Urothelial Carcinoma,Kidney|Ureter,,2
+PTEN,Melanoma,Skin,,2
+CDKN2A,Melanoma,Skin,CDKN2A copy number loss,2
+CDKN2A,Hepatocellular Carcinoma,Liver,CDKN2A copy number loss,2
+BRAF,Melanoma,Skin,BRAF N581S,1
+MET,Melanoma,Skin,MET E168D,3
+RB1,Glioblastoma,Brain,,2
+KIT,Thymic Carcinoma,Thymus,,2
+CDH1,,Breast,CDH1 any indel,2
+GNA11,Melanoma,Eye,,1
+SMO,Basal Cell Carcinoma,Skin,,1
+PIK3CA,Adenocarcinoma,Colon|Rectum,PIK3CA E545K,1
+SMO,Medulloblastoma,"Brain|Brain, Infratentorial|Brain, Supratentorial",SMO W535L,1
+MDM2,Liposarcoma,Soft Tissue,MDM2 copy number gain,1
+MAP2K2,Melanoma,Skin,,1
+MAP2K1,Melanoma,Skin,,1
+MAP2K1,Follicular Lymphoma|Hairy Cell Leukemia|Langerhans Cell Histiocytosis,Blood|Bone Marrow|Lymph Node,MAP2K1 C121S,1
+FGFR1,Gastrointestinal Stromal Tumor,Appendix|Colon|Esophagus|Peritoneum|Retroperitoneum|Stomach|Rectum|Gastroesophageal Junction,FGFR1 copy number gain,1
+CEBPA,Medullary Carcinoma,Breast|Thyroid,,2
+CEBPA,Medullary Carcinoma,Breast|Thyroid,CEBPA Q83*,2
+CDC73,Carcinoma,Parathyroid,,1
+BTK,Chronic Lymphocytic Leukemia|Mantle Cell Lymphoma,Blood|Bone Marrow|Lymph Node,BTK C481S,1
+AKT1,Adenocarcinoma,Breast,,1
+PTCH1,Adenocarcinoma|Basal Cell Carcinoma|Small Cell Carcinoma|Squamous Cell Carcinoma,Skin,,1
+PTCH1,Basal Cell Carcinoma,Skin,PTCH1 W844C,1
+MET,Papillary Renal Cell Carcinoma,Kidney,,1
+KRAS,Adenocarcinoma,Stomach,KRAS G12A|KRAS G12V|KRAS G12D|KRAS G12C|KRAS G12S|KRAS G12R|KRAS G13D|KRAS G13C|KRAS G13S|KRAS G13R,2
+KIT,"Astrocytoma, Anaplastic|Ependymoma|Glioblastoma|Neuroblastoma|Oligodendroglioma|Ependymoma, Anaplastic","Brain|Brain, Infratentorial|Brain, Supratentorial",,1
+KIT,Renal Cell Carcinoma,Kidney,,1
+GNAQ,Melanoma,Eye,,1
+FGFR3,Urothelial Carcinoma,Bladder|Ureter,,1
+FGFR2,Glioblastoma|Renal Cell Carcinoma,Brain|Kidney,,1
+FGFR2,Squamous Cell Carcinoma,Oral Cavity,,1
+FGFR2,Urothelial Carcinoma,Bladder|Ureter,,1
+FGFR1,Squamous Cell Carcinoma,Lung,FGFR1 copy number gain,1
+FGFR1,Adenocarcinoma,Colon,FGFR1 copy number gain,1
+FGFR1,Adenocarcinoma|Carcinoma|Neuroendocrine Carcinoma|Small Cell Carcinoma,Prostate,FGFR1 copy number gain,1
+ERBB4,Melanoma,Skin,,1
+EGFR,Adenocarcinoma|Carcinoma,Colon|Rectum,EGFR copy number gain,1
+CDKN2B,Urothelial Carcinoma,Bladder,CDKN2B copy number loss,1
+CDC73,,Parathyroid,,1
+BRCA2,Adenocarcinoma|Urothelial Carcinoma,Bladder|Ovary |Prostate,BRCA2 any mutation,1
+BRCA1,Adenocarcinoma,Breast|Ovary |Prostate,BRCA1 any mutation,1
+EML4,Non-Small Cell Lung Carcinoma,Lung,EML4-ALK rearrangement,1
+AKT3,Chronic Myeloid Leukemia|Clear Cell Renal Cell Carcinoma|Melanoma|Other Acute Leukemia,Blood|Bone Marrow|Kidney|Skin,,1
+AKT2,Chronic Myeloid Leukemia|Other Acute Leukemia,Blood|Bone Marrow,,1
+BRAF,Melanoma,Skin,BRAF codon(s) 594 any,1
+KRAS,Adenocarcinoma,Colon,KRAS L19F,2
+APC,Adenocarcinoma,Pancreas,APC I1307K,3
+IDH1,Adenocarcinoma,Colon,IDH1 R132C|IDH1 codon(s) 132 any,2
+EGFR,Glioblastoma,Brain,EGFR V774M,2
+APC,,Ovary ,,3
+BRAF,Adenocarcinoma,Small Intestine,BRAF N581S,2
+ERBB2,Adenocarcinoma,Breast,ERBB2 copy number gain,1
+CDK6,Adenocarcinoma|Medulloblastoma,Brain|Breast,CDK6 copy number gain,1
+CDK4,Adenocarcinoma|Liposarcoma|Sarcoma,Breast|Soft Tissue,CDK4 copy number gain,1
+AURKA,Adenocarcinoma,Breast|Colon|Ovary |Pancreas|Prostate|Stomach,AURKA copy number gain,2
+CRKL,Urothelial Carcinoma,Bladder,CRKL copy number gain,3
+CRKL,Adenocarcinoma,Lung,CRKL copy number gain,2
+ERBB3,Adenocarcinoma,Bladder|Breast|Lung|Ovary |Pancreas|Prostate|Stomach|Uterus,ERBB3 copy number gain,2
+CCND1,Adenocarcinoma|Squamous Cell Carcinoma|Urothelial Carcinoma,Bladder|Bladder|Breast|Esophagus|Larynx|Lung|Oral Cavity|Ovary |Pancreas|Prostate|Stomach,CCND1 copy number gain,2
+FGFR2,Adenocarcinoma|Germ Cell Tumor|Squamous Cell Carcinoma|Urothelial Carcinoma,Bladder|Breast|Lung|Oral Cavity|Ovary |Stomach|Testis|Uterus,FGFR2 copy number gain,2
+KIT,Adenocarcinoma,Lung,,2
+KIT,Adenocarcinoma,Esophagus,,2
+SMAD4,Adenocarcinoma|Squamous Cell Carcinoma,Cervix,,3
+SMAD4,Urothelial Carcinoma,Bladder,,3
+IDH1,Adenocarcinoma,Lung,,2
+ERBB2,Adenocarcinoma,Lung,ERBB2 L755S|ERBB2 L755P,2
+MET,Adenocarcinoma,Stomach|Gastroesophageal Junction,MET copy number gain,1
+ERBB2,Adenocarcinoma,Bladder,ERBB2 S295F,1
+PIK3CA,Renal Cell Carcinoma,Kidney,,2
+CDKN2A,Adenocarcinoma,Pancreas,CDKN2A copy number loss,2
+ERBB2,Adenocarcinoma,Breast,ERBB2 L869R,2
+ERBB2,Adenocarcinoma,Breast,ERBB2 T798I,1
+FOXL2,Sex Cord Stromal Tumor,Ovary ,FOXL2 C134W,2
+BRAF,Melanoma,Skin,BRAF G464V|BRAF codon(s) 464 any,2
+BRAF,Adenocarcinoma,Lung,BRAF codon(s) 594 any,2
+KRAS,Adenocarcinoma,Colon|Rectum,KRAS G13D,1
+EGFR,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,EGFR S768I|EGFR V769L,1
+GNAS,Adenocarcinoma,Colon|Rectum,"GNAS codon(s) 201, 844 any",2
+MET,Adenocarcinoma,Colon|Rectum,MET E168D,3
+CDKN2A,Melanoma,Skin,CDKN2A V126D,2
+BRAF,Adenocarcinoma,Small Intestine,BRAF codon(s) 594 any,2
+MET,"Astrocytoma, Anaplastic|Glioblastoma|Astrocytoma, Pilocytic",Brain,MET E168D,3
+KRAS,Ganglioglioma,Brain,,2
+APC,Adenocarcinoma,Small Intestine,APC any missense|APC any nonsense|APC any frameshift,2
+EGFR,Glioblastoma,Brain,EGFR R108K,2
+BRAF,Adenocarcinoma,Lung,BRAF E586K,2
+KIT,Gastrointestinal Stromal Tumor,Small Intestine|Stomach,KIT V654A,1
+NRAS,Adenocarcinoma,Pancreas,,2
+IDH2,Carcinoma,Nasal Cavity,IDH2 R172K|IDH2 codon(s) 172 missense,1
+PDGFRA,"Astrocytoma, Anaplastic|Glioblastoma","Brain|Brain, Infratentorial|Brain, Supratentorial",PDGFRA copy number gain,2
+BRAF,Craniopharyngioma,Brain,BRAF V600E,1
+AKT1,Urothelial Carcinoma,Bladder,AKT1 E17K,2
+EGFR,Adenocarcinoma,Lung,EGFR L861R,1
+ARID1A,"Acinar Cell Carcinoma|Acinic Cell Carcinoma|Acute Myeloid Leukemia|Adenocarcinoma|Adenoid Cystic Carcinoma|Adenosarcoma|Ameloblastic Tumor|Anaplastic Large Cell Lymphoma|Angioimmunoblastic T-Cell Lymphoma|Angiomatoid Fibrous Histiocytoma|Angiomatosis|Angiomyolipoma|Angiosarcoma|Astrocytoma, Anaplastic|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Basal Cell Carcinoma|Burkitt Lymphoma|Carcinoid Tumor|Carcinoma|Carcinosarcoma|Cholangiocarcinoma|Chondrosarcoma|Chordoma|Choriocarcinoma|Chromophobe Renal Cell Carcinoma|Chronic Lymphocytic Leukemia|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Classical Hodgkin Lymphoma|Clear Cell Carcinoma|Clear Cell Renal Cell Carcinoma|Craniopharyngioma|Dermatofibrosarcoma|Desmoplastic Small Round Cell Tumor|Diffuse Large B Cell Lymphoma|Ductal Carcinoma|Ependymoma|Essential Thrombocythemia|Ewing Sarcoma|Fibromatosis|Follicular Carcinoma|Follicular Lymphoma|Gastrointestinal Stromal Tumor|Germ Cell Tumor|Giant Cell Tumor|Glioblastoma|Glomus Tumor|Granular Cell Tumor|Hairy Cell Leukemia|Hemangioendothelioma|Hepatocellular Carcinoma|Histiocytic and Dendritic Cell Neoplasms|Invasive Ductal Carcinoma|Kaposi Sarcoma|Langerhans Cell Histiocytosis|Leiomyoma|Leiomyosarcoma|Lipoma|Liposarcoma|Lobular Carcinoma|Lymphoplasmacytic Lymphoma|Malignant Mullerian Mixed Tumor|Mantle Cell Lymphoma|Marginal Zone B Cell Lymphoma|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Medullary Carcinoma|Medulloblastoma|Melanoma|Meningioma|Merkel Cell Carcinoma|Mesothelioma|Mucinous Adenocarcinoma|Mucinous Tumors of Ovary|Mucoepidermoid Carcinoma|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Myxofibrosarcoma|Nasopharyngeal Carcinoma|Neuroblastoma|Neuroendocrine Carcinoma|Neuroendocrine Neoplasm|NK Cell Lymphoproliferative Disorder|NLPHL|Non-Small Cell Lung Carcinoma|Oligodendroglioma|Osteosarcoma|Papillary Carcinoma|Papillary Renal Cell Carcinoma|Peripheral T Cell Lymphoma|Pheochromocytoma|Plasma Cell Disorder|Polycythemia Vera|Post-Transplant Lymphoproliferative Disorder|Primary Myelofibrosis|Primitive Neuroectodermal Tumor|Renal Cell Carcinoma|Reninoma|Retinoblastoma|Rhabdomyosarcoma|Sarcoma|Schwannoma|Serous Carcinoma|Sex Cord Stromal Tumor|Small Cell Carcinoma|Solid Pseudopapillary Tumor of Pancreas|Spindle Cell Neoplasm|Squamous Cell Carcinoma|T Cell Lymphoproliferative Disorder|T Lymphoblastic Leukemia/Lymphoma|T-Cell LGL Leukemia|Thymic Carcinoma|Thymoma |Urothelial Carcinoma|Tumors of Peripheral Nerves |Unknown|Wilms Tumor|Ependymoma, Anaplastic|Astrocytoma, Pilocytic|Ganglioglioma|Neuroepithelial Neoplasm, NOS|Pleomorphic Carcinoma|Solitary Fibrous Tumor|Neuroepithelial neoplasm, high grade|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Astrocytoma, NOS|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Astrocytoma, Diffusely Infiltrating|Diffuse Midline Glioma|Infiltrating Glioma, NOS|Intraductal Papillary Mucinous Neoplasm (IPMN)|Leukopenia|Lymphadenopathy|Lymphocytosis, Symptomatic|Monoclonal Gammopathy|Mucinous or Serous Cystic Neoplasms of Pancreas|Mycosis Fungoides, Unspecified Site|Oligodendroglioma, Anaplastic|Pleomorphic Xanthoastrocytoma|Rash and Other Nonspecific Skin Eruption|Thrombocytopenia, Unspecified","Adrenal Gland|Anus|Ampulla (Pancreaticobiliary Duct)|Appendix|Bladder|Blood|Bone|Bone Marrow|Brain|Breast|Spinal Cord|Cervix|Chest Wall|Colon|Endometrium|Esophagus|Eye|Fallopian Tube|Fibroadipose Tissue|Gall Bladder|Kidney|Larynx|Liver|Lung|Lymph Node|Nasal Cavity|Oral Cavity|Ovary |Pancreas|Parathyroid|Penis|Peripheral Nervous System|Peritoneum|Pharynx|Pituitary|Placenta|Pleura|Prostate|Retroperitoneum|Salivary Gland|Seminal Vesicle|Skeletal Muscle|Skin|Small Intestine|Soft Tissue|Spleen |Stomach|Testis|Thymus|Thyroid|Tonsil|Unknown|Ureter|Uterus|Vagina|Rectum|Cartilage|Blood Vessel|Buccal Swab|Heart|Trachea|Salivary Duct|Spermatic Cord|Vulva|Brain, Infratentorial|Brain, Supratentorial|Gastroesophageal Junction|Sellar|Suprasellar",ARID1A any mutation,2
+TP53,"Acinar Cell Carcinoma|Acinic Cell Carcinoma|Adenocarcinoma|Adenoid Cystic Carcinoma|Adenosarcoma|Ameloblastic Tumor|Anaplastic Large Cell Lymphoma|Angioimmunoblastic T-Cell Lymphoma|Angiomatoid Fibrous Histiocytoma|Angiomatosis|Angiomyolipoma|Angiosarcoma|Astrocytoma, Anaplastic|Basal Cell Carcinoma|Burkitt Lymphoma|Carcinoid Tumor|Carcinoma|Carcinosarcoma|Cholangiocarcinoma|Chondrosarcoma|Chordoma|Choriocarcinoma|Chromophobe Renal Cell Carcinoma|Chronic Lymphocytic Leukemia|Classical Hodgkin Lymphoma|Clear Cell Carcinoma|Clear Cell Renal Cell Carcinoma|Craniopharyngioma|Dermatofibrosarcoma|Desmoplastic Small Round Cell Tumor|Diffuse Large B Cell Lymphoma|Ductal Carcinoma|Ependymoma|Ewing Sarcoma|Fibromatosis|Follicular Carcinoma|Follicular Lymphoma|Gastrointestinal Stromal Tumor|Germ Cell Tumor|Giant Cell Tumor|Glioblastoma|Glomus Tumor|Granular Cell Tumor|Hairy Cell Leukemia|Hemangioendothelioma|Hepatocellular Carcinoma|Invasive Ductal Carcinoma|Kaposi Sarcoma|Leiomyoma|Leiomyosarcoma|Lipoma|Liposarcoma|Lobular Carcinoma|Lymphoplasmacytic Lymphoma|Malignant Mullerian Mixed Tumor|Mantle Cell Lymphoma|Marginal Zone B Cell Lymphoma|Medullary Carcinoma|Medulloblastoma|Melanoma|Meningioma|Merkel Cell Carcinoma|Mesothelioma|Mucinous Adenocarcinoma|Mucinous Tumors of Ovary|Mucoepidermoid Carcinoma|Myxofibrosarcoma|Nasopharyngeal Carcinoma|Neuroblastoma|Neuroendocrine Carcinoma|Neuroendocrine Neoplasm|NK Cell Lymphoproliferative Disorder|NLPHL|Non-Small Cell Lung Carcinoma|Oligodendroglioma|Osteosarcoma|Papillary Carcinoma|Papillary Renal Cell Carcinoma|Peripheral T Cell Lymphoma|Pheochromocytoma|Plasma Cell Disorder|Post-Transplant Lymphoproliferative Disorder|Primitive Neuroectodermal Tumor|Renal Cell Carcinoma|Reninoma|Retinoblastoma|Rhabdomyosarcoma|Sarcoma|Schwannoma|Serous Carcinoma|Sex Cord Stromal Tumor|Small Cell Carcinoma|Solid Pseudopapillary Tumor of Pancreas|Spindle Cell Neoplasm|Squamous Cell Carcinoma|T Cell Lymphoproliferative Disorder|T-Cell LGL Leukemia|Thymic Carcinoma|Thymoma |Urothelial Carcinoma|Tumors of Peripheral Nerves |Unknown|Wilms Tumor|Ependymoma, Anaplastic|Astrocytoma, Pilocytic|Ganglioglioma|Neuroepithelial Neoplasm, NOS|Pleomorphic Carcinoma|Solitary Fibrous Tumor|Neuroepithelial neoplasm, high grade|Astrocytoma, NOS|Astrocytoma, Diffusely Infiltrating|Diffuse Midline Glioma|Infiltrating Glioma, NOS|Intraductal Papillary Mucinous Neoplasm (IPMN)|Lymphadenopathy|Lymphocytosis, Symptomatic|Monoclonal Gammopathy|Mucinous or Serous Cystic Neoplasms of Pancreas|Mycosis Fungoides, Unspecified Site|Oligodendroglioma, Anaplastic|Pleomorphic Xanthoastrocytoma|Rash and Other Nonspecific Skin Eruption","Adrenal Gland|Anus|Ampulla (Pancreaticobiliary Duct)|Appendix|Bladder|Blood|Bone|Bone Marrow|Brain|Breast|Spinal Cord|Cervix|Chest Wall|Colon|Endometrium|Esophagus|Eye|Fallopian Tube|Fibroadipose Tissue|Gall Bladder|Kidney|Larynx|Liver|Lung|Lymph Node|Nasal Cavity|Oral Cavity|Ovary |Pancreas|Parathyroid|Penis|Peripheral Nervous System|Peritoneum|Pharynx|Pituitary|Placenta|Pleura|Prostate|Retroperitoneum|Salivary Gland|Seminal Vesicle|Skeletal Muscle|Skin|Small Intestine|Soft Tissue|Spleen |Stomach|Testis|Thymus|Thyroid|Tonsil|Unknown|Ureter|Uterus|Vagina|Rectum|Cartilage|Blood Vessel|Buccal Swab|Heart|Trachea|Salivary Duct|Spermatic Cord|Vulva|Brain, Infratentorial|Brain, Supratentorial|Gastroesophageal Junction|Sellar|Suprasellar",TP53 any mutation,2
+NTRK1,"Neuroepithelial Neoplasm, NOS|Astrocytoma, NOS|Astrocytoma, Diffusely Infiltrating|Diffuse Midline Glioma|Infiltrating Glioma, NOS",Brain,NTRK1 any mutation,1
+BRAF,Urothelial Carcinoma,Bladder|Kidney|Unknown|Ureter,BRAF V600E,2
+FBXW7,Adenocarcinoma,Small Intestine,"FBXW7 codon(s) 505, 465 missense",2
+CTNNB1,Acinar Cell Carcinoma,Pancreas,CTNNB1 G34E,2
+ERBB2,Adenocarcinoma|Invasive Ductal Carcinoma|Lobular Carcinoma,Breast,ERBB2 G776V,2
+EGFR,Adenocarcinoma,Colon|Rectum,EGFR V765M,2
+EGFR,Adenocarcinoma,Lung,EGFR K757M,1
+EGFR,Adenocarcinoma,Prostate,EGFR G721S,2
+CDKN2A,Squamous Cell Carcinoma,Esophagus,CDKN2A codon(s) 80 frameshift,2
+CDKN2A,Squamous Cell Carcinoma,Bladder,CDKN2A codon(s) 58 frameshift,2
+CDKN2A,Glioblastoma,"Brain|Brain, Infratentorial|Brain, Supratentorial",CDKN2A H83Y,2
+CDKN2A,Adenocarcinoma,Gall Bladder,CDKN2A any frameshift,2
+BRAF,Melanoma,Skin,BRAF G469R,1
+APC,Adenocarcinoma,Stomach,APC any missense|APC any nonsense|APC any frameshift,2
+APC,Follicular Carcinoma|Papillary Carcinoma,Thyroid,APC I1307K,3
+APC,Clear Cell Renal Cell Carcinoma|Renal Cell Carcinoma,Kidney,APC I1307K,3
+APC,Invasive Ductal Carcinoma|Lobular Carcinoma,Breast,APC K1454E,3
+BRAF,Squamous Cell Carcinoma,Skin,BRAF G469A,2
+FBXW7,Adenocarcinoma,Pancreas,"FBXW7 R479Q|FBXW7 codon(s) 505, 465 missense",2
+NOTCH1,Adenocarcinoma,Colon|Rectum,NOTCH1 L2457V,3
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT W557_K558del,1
+APC,Adenocarcinoma,Colon|Rectum,APC I1307K,2
+FBXW7,Adenocarcinoma,Colon,FBXW7 R505C,2
+SMAD4,"Astrocytoma, Anaplastic|Glioblastoma|Astrocytoma, NOS",Brain,SMAD4 I525V,3
+NRAS,"Astrocytoma, Anaplastic|Glioblastoma|Astrocytoma, NOS|Astrocytoma, Diffusely Infiltrating|Infiltrating Glioma, NOS",Brain|Spinal Cord,"NRAS codon(s) 12, 13, 61, 146 any",2
+MET,"Astrocytoma, Pilocytic",Brain,MET M362T,3
+CDKN2A,"Astrocytoma, Anaplastic|Glioblastoma|Astrocytoma, NOS",Brain,CDKN2A W110*,2
+APC,Invasive Ductal Carcinoma,Breast,APC I1307K,3
+NOTCH1,Invasive Ductal Carcinoma,Breast,NOTCH1 L2457V,3
+FGFR1,Adenocarcinoma,Lung,FGFR1 T141R,3
+BRAF,Adenocarcinoma,Gall Bladder,BRAF V600E,2
+FBXW7,Adenocarcinoma|Carcinoma|Squamous Cell Carcinoma,Esophagus,FBXW7 R505G,3
+RET,Medullary Carcinoma,Thyroid,RET M918T,1
+RET,Squamous Cell Carcinoma,Lung,RET E623K,3
+EGFR,Non-Small Cell Lung Carcinoma,Lung,EGFR E709K,1
+EGFR,Non-Small Cell Lung Carcinoma,Lung,EGFR A750P,1
+EGFR,Non-Small Cell Lung Carcinoma,Lung,EGFR A763_Y764insFQEA,1
+EGFR,Non-Small Cell Lung Carcinoma,Lung,EGFR G719A,1
+BRAF,Melanoma,Unknown,BRAF L597Q,1
+EGFR,Non-Small Cell Lung Carcinoma,Lung,EGFR G719C,1
+BRAF,Melanoma,Unknown,BRAF K601E|BRAF codon(s) 601 any,1
+BRAF,Melanoma,Unknown,BRAF codon(s) 469 any|BRAF G469V,1
+BRAF,Melanoma,Unknown,BRAF D594N,1
+BRAF,Melanoma,Unknown,BRAF V600G,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT E554_I571del,1
+KIT,Thymic Carcinoma,Unknown,KIT D820Y|KIT D820A|KIT D820E|KIT D820G,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT D816F|KIT D816V|KIT D816Y,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT D419del,1
+BRAF,Non-Small Cell Lung Carcinoma,Lung,BRAF V600G,1
+BRAF,Langerhans Cell Histiocytosis,Unknown,BRAF V600D,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT T417_D419delinsRG|KIT T417_D419delinsI,1
+BRAF,Melanoma,Unknown,BRAF V600D|BRAF codon(s) 600 any,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT I653T,1
+KIT,Gastrointestinal Stromal Tumor|Thymic Carcinoma,Unknown,KIT H697Y,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT exon(s) 9 any,1
+BRAF,Langerhans Cell Histiocytosis,Unknown,BRAF codon(s) 600 any|BRAF V600G,1
+BRAF,Non-Small Cell Lung Carcinoma,Lung,BRAF V600D,1
+BRAF,Melanoma,Unknown,BRAF G469A,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT K550_W557del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT F522C,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT P573_D579del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT N822I,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT N822Y|KIT N822H,1
+KIT,Gastrointestinal Stromal Tumor|Thymic Carcinoma,Unknown,KIT P551_M552del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT K642E,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT K558N,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT L576P,1
+KIT,Thymic Carcinoma,Unknown,KIT K642E,1
+KIT,Thymic Carcinoma,Unknown,KIT L576P,1
+KIT,Melanoma,Unknown,KIT L576P,1
+KIT,Melanoma,Unknown,KIT K642E,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT M552_W557del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT K558_E562del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT N564_Y578del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT N822K,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT I563_L576del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V555_V559del,1
+KIT,Thymic Carcinoma,Unknown,KIT V555_L576del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V555_L576del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V530I,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT Q556_K558del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT P838L,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT P577_W582delinsPYD,1
+KIT,Gastrointestinal Stromal Tumor|Thymic Carcinoma,Unknown,KIT P577_D579del,1
+KIT,Gastrointestinal Stromal Tumor|Thymic Carcinoma,Unknown,KIT N505I,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT K558_V559del,1
+KIT,Thymic Carcinoma,Unknown,KIT exon(s) 11 any,1
+KIT,Gastrointestinal Stromal Tumor|Thymic Carcinoma,Unknown,KIT E554_K558del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT D820Y|KIT D820G,1
+KIT,Thymic Carcinoma,Unknown,KIT K550_W557del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V560D,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V559D,1
+FBXW7,Adenocarcinoma,Colon,FBXW7 R393*,2
+BRAF,Chronic Lymphocytic Leukemia,Blood|Bone Marrow,BRAF K601E,1
+MET,Non-Small Cell Lung Carcinoma,Lung,MET D1010Y|MET D1010N|MET D1010H,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT Y578C,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT Y570H,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT Y553_K558del|KIT Y553N,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT W557R|KIT W557G,1
+KIT,Thymic Carcinoma,Unknown,KIT W557_K558del,1
+KIT,Thymic Carcinoma,Unknown,KIT V654A,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V569_L576del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V560G,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V559del,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V559G,1
+KIT,Thymic Carcinoma,Unknown,KIT V559D,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V559C,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT V559_V560del,1
+KIT,Gastrointestinal Stromal Tumor|Thymic Carcinoma,Unknown,KIT D579del,1
+BRAF,Melanoma,Unknown,BRAF V600K,1
+BRAF,Melanoma,Unknown,BRAF G596C,1
+BRAF,Langerhans Cell Histiocytosis|Melanoma|Non-Small Cell Lung Carcinoma,Colon|Lung,BRAF codon(s) 600 any|BRAF V600M,1
+BRAF,Melanoma,Unknown,BRAF L597S,1
+KIT,Thymic Carcinoma,Unknown,KIT exon(s) 9 any,1
+KIT,Gastrointestinal Stromal Tumor,Unknown,KIT E554_V559del,1
+EGFR,Non-Small Cell Lung Carcinoma,Lung,EGFR G719D|EGFR G719S,1
+BRAF,Adenocarcinoma,Lung,BRAF G466R,2
+BRAF,Adenocarcinoma,Colon|Rectum,BRAF G469V,2
+MLH1,"Glioblastoma|Astrocytoma, Pilocytic|Astrocytoma, NOS|Astrocytoma, Diffusely Infiltrating",Brain,MLH1 V384D,3
+KRAS,Adenocarcinoma,Small Intestine,"KRAS codon(s) 12, 13, 61, 117, 146 any",1
+BRAF,Papillary Carcinoma,Thyroid,BRAF F468S,2
+KDR,Adenocarcinoma,Colon,KDR P263T,3
+SMAD4,Adenocarcinoma,Colon|Rectum,SMAD4 R361C,2
+FGFR3,Urothelial Carcinoma,Bladder|Kidney|Ureter,FGFR3 R248C,2
+STK11,Neuroendocrine Carcinoma,Lung,STK11 E33*,2
+PDGFRA,"Glioblastoma|Astrocytoma, NOS",Brain,PDGFRA N659K,2
+BRAF,Adenocarcinoma,Colon|Rectum,BRAF G466V,2
+SMARCB1,Adenocarcinoma,Colon|Rectum,SMARCB1 R374Q,3
+SMARCB1,Urothelial Carcinoma,Bladder|Kidney|Ureter,SMARCB1 A203T,3
+BRAF,Urothelial Carcinoma,Bladder|Kidney|Ureter,BRAF K601E,2
+NRAS,Urothelial Carcinoma,Kidney,NRAS G12A|NRAS G12V|NRAS G12D|NRAS G12C|NRAS G12S|NRAS G12R|NRAS G13D|NRAS G13C|NRAS G13S|NRAS G13R|NRAS G13A|NRAS G13V|NRAS Q61H|NRAS Q61L|NRAS Q61K|NRAS Q61R,2
+POLE,Adenocarcinoma,Colon|Endometrium|Rectum,POLE P286R,1
+PTPN11,Adenocarcinoma,Lung,PTPN11 V497L,3
+PTPN11,Adenocarcinoma,Lung,PTPN11 G503V,2
+SMAD4,Glioblastoma,Brain,SMAD4 P472T,3
+PTEN,Glioblastoma,Brain,PTEN P169H,3
+KIT,Glioblastoma,Brain,KIT D45N,3
+CDH1,Glioblastoma,Brain,CDH1 A403T,3
+NOTCH1,Adenocarcinoma,Lung,NOTCH1 L2457V,3
+FGFR2,Adenocarcinoma,Gall Bladder|Liver,FGFR2 N549K,2
+RB1,Adenocarcinoma,Liver,RB1 R320*,2
+CTNNB1,Adenocarcinoma,Lung,CTNNB1 Y30_I35del,2
+ERBB2,Urothelial Carcinoma,Bladder,ERBB2 I767M,2
+FBXW7,Urothelial Carcinoma,Bladder,FBXW7 H500Y,3
+ATM,Urothelial Carcinoma,Bladder,ATM R2443Q,3
+PIK3CA,Urothelial Carcinoma,Bladder,PIK3CA M1043I,2
+IDH1,Chronic Myeloid Leukemia,Blood,IDH1 any mutation,2
+MET,Clear Cell Renal Cell Carcinoma,Kidney,MET copy number gain,1
+FGFR3,Squamous Cell Carcinoma,Lung|Oral Cavity,FGFR3 copy number gain,1
+BCL2,Diffuse Large B Cell Lymphoma,Lymph Node,BCL2 copy number gain,1
+ASXL1,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Primary Myelofibrosis|Thrombocytosis|Monocytosis|Anemia, Unspecified|Thrombocytopenia, Unspecified|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm",Blood|Bone Marrow,ASXL1 any mutation|ASXL1 any missense,2
+BCOR,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Primary Myelofibrosis|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,BCOR any mutation|BCOR any missense,2
+BRAF,Hairy Cell Leukemia,Blood|Bone Marrow,BRAF V600D|BRAF V600E|BRAF V600K|BRAF V600R|BRAF codon(s) 600 any,1
+BRINP3,"Acute Myeloid Leukemia|Leukocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified",Blood|Bone Marrow,BRINP3 any mutation,3
+TP53,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,TP53 any mutation,1
+SUZ12,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,SUZ12 any mutation,2
+NFE2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|Essential Thrombocythemia|Histiocytic and Dendritic Cell Neoplasms|Langerhans Cell Histiocytosis|Mast Cell Neoplasm|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Polycythemia Vera|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Eosinophilia|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm|Polycythemia",Blood|Bone Marrow,NFE2 any mutation,2
+ETV6,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm",Blood|Bone Marrow,ETV6 any mutation|ETV6 any missense,2
+EZH2,"Acute Myeloid Leukemia|Atypical Chronic Myeloid Leukemia|B Lymphoblastic Leukemia/Lymphoma|Chronic Myelomonocytic Leukemia|Chronic Neutrophilic Leukemia|MDS with Ring Sideroblasts|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Primary Myelofibrosis|T Lymphoblastic Leukemia/Lymphoma|Leukocytosis|Thrombocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm",Blood|Bone Marrow,EZH2 any mutation|EZH2 any missense,2
+HNRNPK,"Acute Myeloid Leukemia|Leukocytosis|Monocytosis|Cytopenia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type|Anemia, Unspecified|Leukopenia|Thrombocytopenia, Unspecified",Blood|Bone Marrow,HNRNPK any mutation,2
+KDM6A,Acute Myeloid Leukemia|Other Acute Leukemia|Acute Leukemia of Unspecified Cell Type,Blood|Bone Marrow,KDM6A any mutation,2
+NOTCH1,Adenocarcinoma,Lung,NOTCH1 exon(s) 26-27 deletion,3
+ATM,Adenocarcinoma,Lung,ATM R2691C,3
+BRAF,Adenocarcinoma,Pancreas,BRAF V600E,2
+PTEN,Papillary Carcinoma,Thyroid,PTEN I101T,2
+BRAF,Adenocarcinoma,Lung,BRAF V600E,2
+CDH1,Carcinoma,Appendix,CDH1 D400V,2
+CTNNB1,Unknown,Soft Tissue,CTNNB1 S45F,2
+PTEN,Adenocarcinoma,Colon,PTEN R15I,2
+KDR,Adenocarcinoma,Colon,KDR K270N,2
+KIT,Adenocarcinoma,Colon,KIT K807N,2
+PIK3CA,Adenocarcinoma,Colon,PIK3CA R88Q,2
+KDR,Adenocarcinoma,Lung,KDR R962H,2
+BRAF,Adenocarcinoma,Rectum,BRAF N581I,2
+BRAF,Adenocarcinoma,Rectum,BRAF E586K,2
+FBXW7,Adenocarcinoma,Rectum,FBXW7 R505C,2
+FBXW7,Adenocarcinoma,Colon,FBXW7 R465H,2
+SMAD4,Adenocarcinoma,Pancreas,SMAD4 D351G,2
+PIK3CA,Adenocarcinoma,Lung,PIK3CA H1047R,2
+KIT,Adenocarcinoma,Colon,KIT D52N,2
+KRAS,Adenocarcinoma,Ampulla (Pancreaticobiliary Duct),KRAS G12D,2
+PIK3CA,Adenocarcinoma,Ampulla (Pancreaticobiliary Duct),PIK3CA N1044K,2
+GNAS,Adenocarcinoma,Ampulla (Pancreaticobiliary Duct),GNAS R201C,2
+SMAD4,Adenocarcinoma,Ampulla (Pancreaticobiliary Duct),SMAD4 R361C,2
+PIK3CA,Adenocarcinoma,Small Intestine,PIK3CA E542K,2
+MET,Carcinoma,Thyroid,MET M362T,3
+SMAD4,Adenocarcinoma,Small Intestine,SMAD4 any nonsense,2
+BRAF,Carcinoma,Thyroid,BRAF V600E,1
+CDH1,Adenocarcinoma,Small Intestine,CDH1 D400V,2
+ATM,Adenocarcinoma,Ampulla (Pancreaticobiliary Duct),ATM F858L,3
+FGFR3,Adenocarcinoma,Ampulla (Pancreaticobiliary Duct),FGFR3 F384L,3
+PIK3CA,Adenocarcinoma,Ampulla (Pancreaticobiliary Duct),PIK3CA E545K,2
+CTNNB1,Adenocarcinoma,Ampulla (Pancreaticobiliary Duct),CTNNB1 T41A,2
+STK11,Unknown,Peritoneum,STK11 codon(s) 60-1 deletion,2
+PTEN,Squamous Cell Carcinoma,Larynx|Oral Cavity,PTEN any frameshift|PTEN any deletion,2
+BRAF,Squamous Cell Carcinoma,Larynx|Oral Cavity,BRAF V600E,2
+PTEN,Urothelial Carcinoma,Bladder,PTEN any missense|PTEN G165R|PTEN G129R,2
+CTNNB1,Adenocarcinoma,Prostate,CTNNB1 S33F,2
+KIT,Adenocarcinoma|Papillary Carcinoma|Renal Cell Carcinoma,Colon|Kidney|Lung|Thyroid,KIT G565V,3
+JAK2,Papillary Carcinoma,Thyroid,JAK2 codon(s) 683 missense,3
+STK11,Squamous Cell Carcinoma,Skin,STK11 codon(s) 60-1 deletion,2
+APC,Adenocarcinoma,Lung,APC I1307K,3
+RB1,Adenocarcinoma|Non-Small Cell Lung Carcinoma|Squamous Cell Carcinoma,Lung,RB1 R320*,2
+PTEN,Adenocarcinoma,Lung,PTEN R173H,1
+NOTCH1,Papillary Carcinoma,Thyroid,NOTCH1 L2457V,3
+KIT,Adenocarcinoma,Lung,KIT C844Y,3
+EGFR,Adenocarcinoma,Lung,EGFR E709_G719delins11,1
+PTEN,Squamous Cell Carcinoma,Lung,PTEN Q214*,2
+CTNNB1,Adenocarcinoma,Lung,CTNNB1 S37C,2
+SMAD4,Adenocarcinoma,Colon,SMAD4 P356L,2
+ERBB4,Adenocarcinoma,Lung,ERBB4 P920H,2
+CDKN2A,Adenocarcinoma,Colon,CDKN2A R128W,2
+PTPN11,Adenocarcinoma,Colon,PTPN11 E76K,2
+EGFR,Adenocarcinoma,Lung,EGFR R108K,2
+MET,Adenocarcinoma,Stomach,MET T1010I,3
+CTNNB1,Adenocarcinoma,Lung,CTNNB1 S37F,2
+VHL,Adenocarcinoma,Colon,VHL C162Y,2
+PTEN,Adenocarcinoma,Lung,PTEN G129R,2
+PIK3CA,Papillary Carcinoma,Thyroid,PIK3CA P539R,2
+BRAF,Adenocarcinoma,Lung,BRAF V590I,3
+MET,Chondrosarcoma,Soft Tissue,MET N375K,3
+ESR1,Adenocarcinoma,Breast,ESR1 Y537S|ESR1 D538G,2
+MPL,Acute Myeloid Leukemia|Essential Thrombocythemia|Myeloproliferative Neoplasm|Primary Myelofibrosis|Acute Leukemia of Unspecified Cell Type,Blood|Bone Marrow,MPL Y591D,1
+H3F3A,"Glioblastoma|Astrocytoma, Diffusely Infiltrating|Diffuse Midline Glioma","Brain|Brain, Infratentorial|Brain, Supratentorial",H3F3A codon(s) 28 missense,1
+MPL,Essential Thrombocythemia|Myelodysplastic Syndrome|Myeloproliferative Neoplasm|Primary Myelofibrosis|Myelodysplastic/Myeloproliferative Neoplasm|Myeloid Neoplasm,Blood|Bone Marrow,MPL S505N,1
+SMARCB1,Adenocarcinoma,Colon|Rectum,SMARCB1 R377H,2
+EGFR,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,EGFR G796S,1
+IDH1,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,IDH1 R119Q,2
+CDKN2A,Adenocarcinoma,Lung,CDKN2A G67C,2
+CDKN2A,Melanoma,Skin|Unknown,CDKN2A codon(s) 58 frameshift|CDKN2A codon(s) 80 frameshift,2
+CDKN2A,Adenosarcoma|Melanoma|Squamous Cell Carcinoma,Lung|Skin|Unknown,CDKN2A D84V,2
+SMO,Adenocarcinoma|Non-Small Cell Lung Carcinoma,Lung,SMO P641A,3
+VHL,Non-Small Cell Lung Carcinoma,Lung,VHL codon(s) 430 nonsense,3
+PTEN,Adenocarcinoma,Lung,PTEN I101T,2
+APC,Adenocarcinoma,Lung,APC K1454E,3
+MET,Fibromatosis,Colon,MET T1010I,3
+BRAF,Adenocarcinoma,Lung,BRAF D594G,2

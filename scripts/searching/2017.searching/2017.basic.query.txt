@@ -1,0 +1,30 @@
+Liposarcoma CDK4
+Colon cancer KRAS BRAF
+Meningioma NF2 AKT1
+Breast cancer FGFR1 PTEN
+Melanoma BRAF CDKN2A
+Melanoma NRAS
+Lung cancer EGFR
+Lung cancer EML4
+Gastrointestinal stromal tumor KIT
+Lung adenocarcinoma KRAS
+Gastric cancer PIK3CA
+Colon cancer BRAF
+Cholangiocarcinoma BRCA2
+Cholangiocarcinoma IDH1
+Cervical cancer STK11
+Pancreatic cancer CDKN2A
+Prostate cancer PTEN
+Pancreatic cancer CDK6
+Colorectal cancer FGFR1
+Liposarcoma MDM2
+Lung adenocarcinoma ALK
+Lung cancer ERBB2
+Breast cancer PTEN
+Lung cancer NTRK1
+Lung adenocarcinoma MET
+Breast cancer NRAS
+Pancreatic adenocarcinoma KRAS TP53
+Pancreatic ductal adenocarcinoma ERBB3
+Ampullary carcinoma KRAS
+Pancreatic adenocarcinoma RB1 TP53 KRAS

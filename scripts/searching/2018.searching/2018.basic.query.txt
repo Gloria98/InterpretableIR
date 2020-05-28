@@ -1,0 +1,50 @@
+melanoma BRAF
+melanoma BRAF
+melanoma BRAF
+melanoma BRAF
+melanoma BRAF PTEN
+melanoma BRAF NRAS
+melanoma BRAF
+melanoma NRAS
+melanoma NRAS
+melanoma KIT
+melanoma KIT KIT
+melanoma KIT
+melanoma KIT
+melanoma KIT
+melanoma NF1
+melanoma NTRK1
+melanoma TP53
+melanoma PD-L1
+melanoma PD-L1
+melanoma high tumor mutational burden
+melanoma extensive tumor infiltrating lymphocytes
+melanoma no tumor infiltrating lymphocytes
+melanoma PTEN
+melanoma APC
+melanoma LDH
+colorectal cancer NRAS
+medullary thyroid carcinoma RET
+neuroblastoma ALK
+esophageal cancer EGFR
+lung cancer ROS1
+head and neck squamous cell carcinoma CDKN2A
+leukemia ABL1
+gastric cancer EGFR
+sarcoma MDM2
+breast cancer CDKN2A
+lung cancer ERBB2
+non-small cell carcinoma MET
+cholangiocarcinoma IDH1
+anaplastic large cell lymphoma ALK
+breast cancer ERBB2
+papillary thyroid carcinoma NTRK1
+glioblastoma CDK6
+basal cell carcinoma PTCH1
+glioma BRAF
+thyroid cancer BRAF
+lung cancer FGFR1
+prostate cancer PTEN
+adenoid cystic carcinoma KIT
+acute myeloid leukemia IDH1
+acute myeloid leukemia FLT3
